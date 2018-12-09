@@ -1,12 +1,11 @@
 # Learning-Spark
 
 ## Code 
-- https://github.com/
-        holdenk/spark-testing-base
-        juarnrh/sscheck
-        databricks/spark-integration-tests
-        databricks/spark-perf
-        holdenk/spark-validator       
+-  https://github.com/holdenk/spark-testing-base
+ -        https://github.com/juarnrh/sscheck
+  -       https://github.com/databricks/spark-integration-tests
+   -      https://github.com/databricks/spark-perf
+    -     https://github.com/holdenk/spark-validator       
 - www.scalacheck.org
     
 ## Testing Framework
