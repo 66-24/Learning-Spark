@@ -10,7 +10,7 @@
     
 ## Testing Framework
 
-```
+```java
 // to prevent port bind issue in tests        
 System.clearProperty("spark.driver.port"); 
         
@@ -60,7 +60,7 @@ public class SampleJavaRddTest extends SharedJavaSparkContext
   - Making Spark Unit Testing With Spark Testing Base.  
   - Mastering Spark Unit Testing by Ted Malaska 2016
    
-   ```
+   ```scala
 spakConf.set(spark.broadcase.compress, "false")
 spark.shuffle.compress false
 spark.shuffle.spill.compress false; 
